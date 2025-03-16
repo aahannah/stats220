@@ -17,7 +17,8 @@
 
 ### My Current Mood  
 
-A pig that captures how I currently feel about my university studies is ![tenor](https://tenor.com/bJCae.gif)
+A bear that captures how I currently feel about my university studies is 
+![Current Mood](https://media1.tenor.com/m/WmmNAIULiwUAAAAd/finn-bear.gif)
 ### Useful Links  
 
 - [STATS 220 Course Page](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1253)  
