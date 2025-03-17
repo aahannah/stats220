@@ -22,7 +22,8 @@ A bear that captures how I currently feel about my university studies is
 ### Useful Links  
 
 - [STATS 220 Course Page](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1253)  
-- [My Major](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/statistics.html)  
+- [My Major](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/statistics.html)
+- [Github](
 ---  
 Let’s make **statistics** *fun and exciting!*  
 
